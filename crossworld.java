@@ -14,7 +14,7 @@ public class crossworld{
 		cat[2] = 'T';
 		
 		char[] giraffe = new char [6];
-		giraffe[0] = '¯';
+		giraffe[0] = 'Å»';
 		giraffe[1] = 'Y';
 		giraffe[2] = 'R';
 		giraffe[3] = 'A';
