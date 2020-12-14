@@ -1,5 +1,6 @@
 public class crossworld{
 	public static void main(String args[]){
+
 		// przygotowanie struktóry dla krzyżówki
 		char[][]crossworld = new char[3][];
 		crossworld[0] = new char[4]; // wilk
@@ -38,5 +39,5 @@ public class crossworld{
 		System.out.println(" Długość trzeciego słowa: "+crossworld[2].length);
 		// zamiana żyrafa na żyrafy
 		crossworld[2][5] = 'y';
-	}
-}
+
+
